@@ -1,3 +1,4 @@
+'''Author:  Davinder Singh '''
 '''The code to find matchings and keypoints is taken from "https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html"'''
 import numpy as np
 import cv2
